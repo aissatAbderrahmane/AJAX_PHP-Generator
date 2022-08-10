@@ -1,0 +1,4 @@
+action:"index.php?mode=register"
+method:"POST",
+inputs:["matricule","numero","nom","prenom","password","ajoutement","supression"]
+table:"etudiant"

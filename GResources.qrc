@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/add.png</file>
+        <file>icons/add_config-file.png</file>
+        <file>icons/add-database.png</file>
+        <file>icons/add-folder.png</file>
+        <file>icons/center.png</file>
+        <file>icons/config-file.png</file>
+        <file>icons/databases.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/edit_config-file.png</file>
+        <file>icons/edit-database.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/justify.png</file>
+        <file>icons/left.png</file>
+        <file>icons/offline.png</file>
+        <file>icons/online.png</file>
+        <file>icons/open-console.png</file>
+        <file>icons/past.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/pinned.png</file>
+        <file>icons/right.png</file>
+        <file>icons/save-database.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/star.png</file>
+        <file>icons/start.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/transfer-database.png</file>
+    </qresource>
+</RCC>

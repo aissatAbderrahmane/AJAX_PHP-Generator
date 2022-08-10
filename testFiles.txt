@@ -1,0 +1,5 @@
+lang:"php",
+action:"index.php?mode=register"
+method:"POST",
+inputs:["Hello","World","This","CONFIG","file"]
+table:"hello"
